@@ -1,0 +1,42 @@
+body {
+	text-align: center;
+}
+
+h1 {
+	font-family: 'Oswald', sans-serif;
+	font-size: 26px;
+	font-weight: bold;
+	text-transform: uppercase;
+	letter-spacing: 4px;
+	margin: 15px 0 35px 0;
+}
+
+p {
+	font-family: 'Open Sans', sans-serif;
+	line-height: 1.6;
+	font-size: 18px;
+}
+
+.socials {
+	font-family: 'Oswald', sans-serif;
+	font-size: 26px;
+	font-weight: bold;
+	text-transform: uppercase;
+	letter-spacing: 4px;
+	margin: 15px 0 px 0;
+}
+
+.socials img {
+	margin-top: 15px;
+	display: inline-block;
+	line-height: 100%;
+    padding: 5px;
+	width: 2%;
+	height: auto;
+	opacity: 1.0;
+	transition: .5s ease;
+}
+
+.socials img:hover {
+	opacity: 0.3;
+}
